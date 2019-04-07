@@ -12,6 +12,10 @@ class App extends Component {
             NFL Draft
           </h1>
         </header>
+        <div>
+          
+        </div>
+
       </div>
     );
   }
